@@ -1,0 +1,18 @@
+.single-card-container {
+    margin: 1%;
+    width: 300px;
+    height:250px;
+    border: 4px rgb(40, 171, 149) solid;
+    background-color: rgb(255, 255, 255);
+}
+
+.card-text{
+    padding: 1%;
+    color:rgb(40, 171, 149)
+}
+
+.cancel-button {
+    background-color:rgb(40, 171, 149) ;
+    color: white;
+    width: 110px;
+}
